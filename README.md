@@ -12,6 +12,7 @@ templates, not live workflows or private operational data.
 - [Selection Matrix](docs/selection-matrix.md)
 - [Public Safety Rules](docs/public-safety.md)
 - [Workflow Card Template](templates/workflow-card.md)
+- [Automation Operating Guide](https://github.com/frankxai/starlight-automation-agent-skills/blob/main/docs/automation-operating-guide.md)
 
 ## Core Categories
 
@@ -50,6 +51,12 @@ templates, not live workflows or private operational data.
 - Bounded worker-lane templates.
 - Evaluation and synthesis gates.
 
+### Operations And Evals
+
+- Decision records for why a workflow belongs in Make, n8n, MCP, Codex, Hermes, or a queue.
+- Cost reviews for credits, executions, model usage, hosting, and maintenance time.
+- Weekly failure reviews, monthly ownership audits, and quarterly migration/delete decisions.
+
 ## Public Boundary
 
 Do publish:
@@ -73,4 +80,3 @@ Do not publish:
 
 - `frankxai/starlight-automation-agent-skills` for installable Codex skills and
   public-safe Starlight automation doctrine.
-
