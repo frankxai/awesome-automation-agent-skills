@@ -1,98 +1,52 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Awesome Automation Agent Skills" width="100%">
-</p>
+﻿<div align="center">
 
-<h1 align="center">Awesome Automation Agent Skills</h1>
+# Awesome Automation Agent Skills
 
-<p align="center">
-  <strong>A curated index of agent-ready automation patterns, skills, and tool-selection doctrine for Make.com, n8n, MCP, Codex automations, SaaS connectors, and multi-agent queues.</strong>
-</p>
+<img src="./hero.jpg" width="100%" alt="Awesome Automation Agent Skills Hero Banner" />
 
-<p align="center">
-  <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg"></a>
-  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
-</p>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Link Check](https://github.com/frankxai/awesome-automation-agent-skills/actions/workflows/link-checker.yml/badge.svg)](https://github.com/frankxai/awesome-automation-agent-skills/actions/workflows/link-checker.yml)
+[![FrankX Core Brand Hub](https://img.shields.io/badge/Maintained%20by-FrankX-blue?style=flat-square)](https://frankx.ai)
 
-<p align="center">
-  <a href="#start-here">Start Here</a> ·
-  <a href="#core-categories">Categories</a> ·
-  <a href="#public-boundary">Public Boundary</a>
-</p>
+**Framework-agnostic automation patterns using FastMCP.**
 
-This repo is public-safe by design. It links to reusable patterns and mock templates, not live workflows or private operational data.
+</div>
 
-## Start Here
+---
 
-- [Selection Matrix](docs/selection-matrix.md)
-- [Public Safety Rules](docs/public-safety.md)
-- [Workflow Card Template](templates/workflow-card.md)
-- [starlight-automation-agent-skills](https://github.com/frankxai/starlight-automation-agent-skills) — installable Codex skills and public-safe Starlight automation doctrine.
-- [workflow-tier-plugin](https://github.com/frankxai/workflow-tier-plugin) — 8 portable, ready-to-run multi-agent Claude Code workflows.
-- [Automation Operating Guide](https://github.com/frankxai/starlight-automation-agent-skills/blob/main/docs/automation-operating-guide.md)
+## ðŸŒŸ Our Advantage
 
-## Core Categories
+> [!NOTE]
+> Unlike other generic lists, this repository **Framework-agnostic automation patterns using standard FastMCP and Agents SDK.**
 
-### Tool Routers
+We follow the **Hub-and-Spoke Traffic Funnel** model. This is an active, deeply engineered repository designed for the GenCreator economy. Every tool, skill, and framework here is tested and ready for production deployment within the FrankX ecosystem.
 
-- Automation tool router skills that decide when to use native connectors,
-  Codex automations, MCP, Make.com, n8n, or a swarm queue.
+## ðŸ“¦ Recommended Claude Code Skills & Agents
 
-### Make.com
+| Name | Description | Link |
+| :--- | :--- | :--- |
+| **ACOS Architecture Expert** | The definitive standard for agentic systems. | [Claude Skills Library](https://frankx.ai/claude-skills-library) |
+| **Product Engine** | Agentic workflows for immediate deployment. | [frankx.ai](https://frankx.ai) |
 
-- Scenario maps for low-code SaaS glue.
-- On-demand scenario patterns for MCP exposure.
-- Lead intake, purchase follow-up, and approval workflow sketches.
+## ðŸš€ How It Integrates
 
-### n8n
+This repository connects directly into the broader ecosystem:
+- Serves as a definitive, high-signal curation list for AI Architects.
+- Drives active agentic workflows via the FastMCP and Agents SDK.
+- Enforces strict safety and execution gates.
 
-- Workflow JSON review patterns.
-- Self-hosted and private-data workflow guidance.
-- Public template skeletons with credentials removed.
+---
 
-### MCP
+## ðŸ› ï¸ Contributing & Standards
 
-- Typed tool boundary checklists.
-- Scope and auth review patterns.
-- Make MCP and n8n MCP exposure notes.
+We welcome contributions that align with our core thesis of verifiable, world-healing, and rigorously-tested agent intelligence.
 
-### Codex Automations
+Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
-- Recurring repo health checks.
-- Inbox and calendar briefings.
-- Deployment and PR monitors.
+## ðŸ“„ License
 
-### Swarm Queues
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-- Multi-agent handoff formats.
-- Bounded worker-lane templates.
-- Evaluation and synthesis gates.
-
-### Operations And Evals
-
-- Decision records for why a workflow belongs in Make, n8n, MCP, Codex, Hermes, or a queue.
-- Cost reviews for credits, executions, model usage, hosting, and maintenance time.
-- Weekly failure reviews, monthly ownership audits, and quarterly migration/delete decisions.
-
-## Public Boundary
-
-Do publish:
-
-- generic workflow maps
-- mock payloads
-- screenshots with no private data
-- validation scripts
-- installable public-safe skills
-
-Do not publish:
-
-- credentials
-- live webhook URLs
-- customer data
-- inbox or calendar contents
-- private memory
-- revenue or partner pipeline details
-
-## First Companion Repo
-
-- `frankxai/starlight-automation-agent-skills` for installable Codex skills and
-  public-safe Starlight automation doctrine.
+<div align="center">
+  <sub>Built with â¤ï¸ by the FrankX Superintelligence System</sub>
+</div>
