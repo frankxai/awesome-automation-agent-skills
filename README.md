@@ -10,6 +10,25 @@ This is an independent, **web-first** catalog. It remains useful if every FrankX
 
 Favor idempotent, least-privilege workflows. Keep discovery read-only and human-gate spend, publishing, credentials, and irreversible actions.
 
+<!-- earned-skill-index:2026-08-30 -->
+
+## Earned agent skills (start here)
+
+Operators get leverage from **about 5–7 named workflows**, not bulk dumps. Hub: [https://github.com/frankxai/awesome-hermes-agent-skills](https://github.com/frankxai/awesome-hermes-agent-skills) · [earned index](https://github.com/frankxai/awesome-hermes-agent-skills/blob/main/docs/EARNED-SKILLS.md) · [safety gate](https://github.com/frankxai/awesome-hermes-agent-skills/blob/main/docs/QUALITY-AND-SAFETY.md).
+
+**Automation agent skills**
+
+| Pack | Job |
+| --- | --- |
+| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | Reference MCP servers — install **one** connector, not the zoo |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Workflow automation with AI nodes |
+| [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | Durable Python orchestration |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Scan a skill before it can run |
+| [obra/superpowers](https://github.com/obra/superpowers) | Debug / review methodology when you *write* automations |
+
+Scan with [NVIDIA SkillSpector](https://github.com/NVIDIA/SkillSpector) before a live profile. Do not install unsigned ZIP/S3 skill blobs or OpenClaw mass dumps.
+
+
 ## Peer directories and standards
 
 [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) · [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
@@ -64,4 +83,4 @@ Open a PR with a primary URL, one-sentence distinct value, current maintenance e
 
 This monthly pulse queried GitHub repository metadata on **2026-08-03** for identity, approximate stars, archived state, activity, and license posture. `NOASSERTION` means GitHub did not return a standard SPDX identifier; review the repository license before adoption. Counts are dated discovery signals, not rankings. Nothing here is financial, legal, medical, or safety advice.
 
-Maintained as independent, web-first curation by FrankX. Last research pulse: **2026-08-03**.
+Maintained as independent, web-first curation by FrankX. Last research pulse: **2026-08-30**.
