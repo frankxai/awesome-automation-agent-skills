@@ -1,6 +1,6 @@
 # Awesome Automation Agent Skills
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/frankxai/awesome-automation-agent-skills?style=flat)](https://github.com/frankxai/awesome-automation-agent-skills/stargazers) [![Last commit](https://img.shields.io/github/last-commit/frankxai/awesome-automation-agent-skills?style=flat)](https://github.com/frankxai/awesome-automation-agent-skills/commits/main)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/frankxai/awesome-automation-agent-skills?style=flat)](https://github.com/frankxai/awesome-automation-agent-skills) [![Last commit](https://img.shields.io/github/last-commit/frankxai/awesome-automation-agent-skills?style=flat)](https://github.com/frankxai/awesome-automation-agent-skills/commits/main)
 
 > Web-first automation, orchestration, MCP, and workflow resources with explicit permission, observability, and validation boundaries.
 
